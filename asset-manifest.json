@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/saumyaaajain/website/static/css/main.96144cbf.chunk.css",
+    "main.js": "/saumyaaajain/website/static/js/main.b2cd2be8.chunk.js",
+    "main.js.map": "/saumyaaajain/website/static/js/main.b2cd2be8.chunk.js.map",
+    "runtime-main.js": "/saumyaaajain/website/static/js/runtime-main.a8e90dd7.js",
+    "runtime-main.js.map": "/saumyaaajain/website/static/js/runtime-main.a8e90dd7.js.map",
+    "static/css/2.1bf87fc6.chunk.css": "/saumyaaajain/website/static/css/2.1bf87fc6.chunk.css",
+    "static/js/2.a43f3709.chunk.js": "/saumyaaajain/website/static/js/2.a43f3709.chunk.js",
+    "static/js/2.a43f3709.chunk.js.map": "/saumyaaajain/website/static/js/2.a43f3709.chunk.js.map",
+    "index.html": "/saumyaaajain/website/index.html",
+    "precache-manifest.2be284d58ce2ed77d488f8d581f8e641.js": "/saumyaaajain/website/precache-manifest.2be284d58ce2ed77d488f8d581f8e641.js",
+    "service-worker.js": "/saumyaaajain/website/service-worker.js",
+    "static/css/2.1bf87fc6.chunk.css.map": "/saumyaaajain/website/static/css/2.1bf87fc6.chunk.css.map",
+    "static/css/main.96144cbf.chunk.css.map": "/saumyaaajain/website/static/css/main.96144cbf.chunk.css.map",
+    "static/media/App.css": "/saumyaaajain/website/static/media/145385.a9e2109f.jpg",
+    "static/media/203-buckets-list-extra_TALL-1536x512.jpg": "/saumyaaajain/website/static/media/203-buckets-list-extra_TALL-1536x512.d8f666f3.jpg",
+    "static/media/Star+Wars49.jpg": "/saumyaaajain/website/static/media/Star+Wars49.c7f71a70.jpg",
+    "static/media/StarJedi-DGRW.ttf": "/saumyaaajain/website/static/media/StarJedi-DGRW.af7c07fa.ttf",
+    "static/media/Unknown-3": "/saumyaaajain/website/static/media/Unknown-3.5c4f78c7.bin",
+    "static/media/arrow1.svg": "/saumyaaajain/website/static/media/arrow1.3fe8fbbf.svg",
+    "static/media/final-trailer-tall-v3-47f-1536x512.jpg": "/saumyaaajain/website/static/media/final-trailer-tall-v3-47f-1536x512.5180693f.jpg",
+    "static/media/logo.svg": "/saumyaaajain/website/static/media/logo.25bf045c.svg",
+    "static/media/may-the-fourth-be-with-you.jpg": "/saumyaaajain/website/static/media/may-the-fourth-be-with-you.0791e4ce.jpg",
+    "static/media/rise-of-skywalker-theatrical-poster-tall-1536x512.jpg": "/saumyaaajain/website/static/media/rise-of-skywalker-theatrical-poster-tall-1536x512.d8e52212.jpg",
+    "static/media/rise-of-skywalker-tickets-tall-1536x512.jpg": "/saumyaaajain/website/static/media/rise-of-skywalker-tickets-tall-1536x512.459bb515.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e90dd7.js",
+    "static/css/2.1bf87fc6.chunk.css",
+    "static/js/2.a43f3709.chunk.js",
+    "static/css/main.96144cbf.chunk.css",
+    "static/js/main.b2cd2be8.chunk.js"
+  ]
+}
