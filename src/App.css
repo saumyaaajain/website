@@ -1,14 +1,47 @@
 .App {
-  text-align: center;
+  background-color: black;
+  background-blend-mode: color;
+  background-image: url("./145385.jpg");
+  background-repeat: repeat-x;
 }
 
 .App-logo {
   height: 40vmin;
 }
 
+.logo{
+  height: 20vh;
+  width: 50vh;
+}
+
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  overflow: scroll;
+}
+
+.App-Head {
+  background-color: black;
+  min-height: 15vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+
+}
+
+.new-App-Head{
+  padding-bottom: 20vh;
+  background-color: black;
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -17,6 +50,97 @@
   color: white;
 }
 
+.colorChange{
+  width: available;
+  height: available;
+  background-color: black;
+  -webkit-animation-name: example; /* Safari 4.0 - 8.0 */
+  -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+  animation-name: change;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes change {
+  from {background-color: white;}
+  to {background-color: black;}
+}
+@-webkit-keyframes change {
+  from {background-color: white;}
+  to {background-color: black;}
+}
+
+.foot{
+  text-decoration-color: gold;
+  color: white;
+  height: 15vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+
 .App-link {
   color: #09d3ac;
 }
+
+.App-logo1{
+  min-height: 10vh;
+}
+.frames{
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items:flex-start;
+  justify-content:flex-start;
+  padding: 20vh;
+  align-content: space-between;
+
+}
+.divider{
+  width: 25px;
+  height:auto;
+  display:inline-block;
+}
+
+@font-face {
+  font-family: 'StarJedi';
+  font-style: normal;
+  font-weight: 400;
+  src:
+          local('StarJedi-DFRW'),
+          url(./StarJedi-DGRW.ttf) format('ttf');
+}
+.fontTest{
+  font-family: 'StarJedi';
+}
+button {
+  background-color: white;
+  text-decoration: none;
+  width: 90%;
+  height: 30%;
+  height: 47px;
+  border-radius: 50px;
+  border: solid 2px #303030;
+}
+button:hover {
+  background-color: blue;
+}
+
+.btn-content {
+  width: 130px;
+  height: 32px;
+  font-family: Roboto;
+  font-size: 1.4vw;
+  font-style: normal;
+  font-stretch: condensed;
+  line-height: 1.19;
+  letter-spacing: 0.64px;
+  text-align: left;
+  color: #000000;
+}
+.image1 {
+  width: 25%;
+  height: 25%;
+  margin-bottom: 8px;
+}
+
+
